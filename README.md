@@ -16,6 +16,7 @@ A fix for patch B
 <<<<<<< HEAD
 something to add to patch A
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1a5fcf9 (something to add to patch A)
 =======
 i cant' typ goods
@@ -28,3 +29,6 @@ patchB
 >>>>>>> 5d09e02 (A fix for patch B)
 =======
 >>>>>>> ba8f4d1 (something i want to split)
+=======
+i cant' typ goods
+>>>>>>> a20c62a (i cant' typ goods)
