@@ -11,6 +11,7 @@ patchA
 =======
 patchB
 something i want to split
+<<<<<<< HEAD
 A fix for patch B
 <<<<<<< HEAD
 something to add to patch A
@@ -25,3 +26,5 @@ patchB
 >>>>>>> a51a48f (patch b)
 =======
 >>>>>>> 5d09e02 (A fix for patch B)
+=======
+>>>>>>> ba8f4d1 (something i want to split)
