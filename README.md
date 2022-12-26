@@ -7,9 +7,9 @@ default branch에 merge하면 link햇을떄 closed 로 하지 않아도 isuue가
 
 1
 2
-<<<<<<< HEAD
 3
 4
+<<<<<<< HEAD
 5
 =======
->>>>>>> cf5c509 (patch B)
+>>>>>>> aa486a5 (fix for patch B)
