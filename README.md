@@ -7,10 +7,12 @@ default branch에 merge하면 link햇을떄 closed 로 하지 않아도 isuue가
 
 patchA
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 patchB
 something i want to split
 A fix for patch B
+<<<<<<< HEAD
 something to add to patch A
 <<<<<<< HEAD
 >>>>>>> 1a5fcf9 (something to add to patch A)
@@ -18,3 +20,8 @@ something to add to patch A
 i cant' typ goods
 something to move before patch B
 >>>>>>> 42cb774 (something to move before patch B)
+=======
+patchB
+>>>>>>> a51a48f (patch b)
+=======
+>>>>>>> 5d09e02 (A fix for patch B)
