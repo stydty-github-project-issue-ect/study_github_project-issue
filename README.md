@@ -5,3 +5,5 @@ github docs에 따른 issue, project,tasklist를 공부하고, test하기 위한
 default branch에 merge하면 link햇을떄 closed 로 하지 않아도 isuue가 닫힌다?
 
   issue에서 link한 branch는 nodefault로 pr시 닫힐까?
+yes
+이슈 13은 nodefault branch에 merge해도 closed로 닫을 수 있을까?
