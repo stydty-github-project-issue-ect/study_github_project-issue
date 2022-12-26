@@ -6,3 +6,4 @@ default branch에 merge하면 link햇을떄 closed 로 하지 않아도 isuue가
 
 리드미 수정
 작업했다.
+한번더했다
