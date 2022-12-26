@@ -12,4 +12,9 @@ patchB
 something i want to split
 A fix for patch B
 something to add to patch A
+<<<<<<< HEAD
 >>>>>>> 1a5fcf9 (something to add to patch A)
+=======
+i cant' typ goods
+something to move before patch B
+>>>>>>> 42cb774 (something to move before patch B)
